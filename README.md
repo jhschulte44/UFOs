@@ -7,6 +7,7 @@ We began our project by using JavaScript and HTML to import our dataset into a t
 ![Table Preview](static/images/table.png)
 
 Once our table was complete, we added search features using D3 to listen for user input and filter the data based on that input:
+
 ![Search Inputs](static/images/search.png)
 
 ## Summary
